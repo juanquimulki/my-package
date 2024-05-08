@@ -1,5 +1,5 @@
 {
-    "name": "juanqui/my-package",
+    "name": "juanqui/tempconv",
     "description": "Converts temperature values",
     "type": "library",
     "license": "MIT",
