@@ -1,0 +1,18 @@
+{
+    "name": "juanqui/my-package",
+    "description": "Converts temperature values",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Juanqui\\MyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Mulki",
+            "email": "ing.mulkiaguilera@gmail.com"
+        }
+    ],
+    "require": {}
+}
